@@ -1,18 +1,15 @@
 # 👋 Hey, I'm Harfull!
 
 ## 🛠️ Java Developer | Owner of NexusMCS  
-🚀 Passionate about coding and creating high-quality plugins for Minecraft servers.  
-🎮 Owner of **NexusMCS**, a growing community for Minecraft server development.  
-💼 **Available for commissions** – Need a custom plugin? Let's work together!  
+🚀 Passionate about creating **high-quality Minecraft plugins**.  
+🎮 Owner of **NexusMCS** (Nexus Minecraft Studios), specializing in **premium and free plugins** for Minecraft servers.  
+💼 **Available for commissions** – Need a custom plugin? Let's work together!
 
 ---
 
 ## 🌟 What I Do  
-- 💻 **Java Development** – Specializing in Minecraft plugins & Skript addons.  
-- 🎮 **Server Management** – Hosting & optimizing servers with **Pterodactyl**.  
-- 🔧 **Automation & APIs** – Building powerful backend solutions.  
-- 🖥️ **3D Printing Enthusiast** – Working with **Elegoo Neptune 3 Pro & OctoPrint**.  
-
+- 💻 **Java Development** – Specializing in Minecraft plugins, with a focus on high-quality, customizable solutions.  
+- 🔧 **Minecraft Plugin Creation** – Building unique, powerful plugins to enhance gameplay experiences.  
 ---
 
 ## 🌐 Connect With Me  
@@ -24,18 +21,15 @@
 
 ## 🔧 Technologies & Tools  
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)  
-![Skript](https://img.shields.io/badge/Skript-00C4B3?style=for-the-badge&logo=minecraft&logoColor=white)  
-![Pterodactyl](https://img.shields.io/badge/Pterodactyl-000000?style=for-the-badge&logo=pterodactyl&logoColor=white)  
-![Raspberry Pi](https://img.shields.io/badge/RaspberryPi-C51A4A?style=for-the-badge&logo=raspberry-pi&logoColor=white)  
 
 ---
 
 ## 📌 Featured Project: **Levels Remastered**  
-🔥 An advanced leveling system inspired by **Levels SMP**, fully integrated with Skript!  
-📌 Custom features, optimized performance, and **built for Minecraft servers**.  
+🔥 An advanced leveling system inspired by **Levels SMP**, fully integrated for **Minecraft**!  
+📌 Custom features, optimized performance, and **built for Minecraft spigot servers**.
 
-🔗 **Want a custom plugin for your server? [DM me on Discord!](https://discord.com/users/591343187558400014)**  
+🔗 **Want a custom plugin for your server? [DM me on Discord!](https://discord.com/users/591343187558400014)**
 
 ---
 
-🚀 **Let's build something amazing together!**  
+🚀 **Let's build something amazing together!**
